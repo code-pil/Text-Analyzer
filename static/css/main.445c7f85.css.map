@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.445c7f85.css","mappings":"AAAA,KACE,cACF,CAEA,WACE,UACF","sources":["components/Textform.css"],"sourcesContent":[".btn {\r\n  transition: 0.2s;\r\n}\r\n\r\n.btn:hover {\r\n  opacity: 0.8;\r\n}\r\n"],"names":[],"sourceRoot":""}
